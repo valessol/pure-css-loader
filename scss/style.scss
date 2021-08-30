@@ -45,7 +45,7 @@ section {
             .loader-#{$i} {
                 transform: rotate(30deg * $i);
                 &::before {
-                    animation-delay: 0.15s * $i;
+                    animation-delay: 0.17s * $i;
                 }
             }
         }

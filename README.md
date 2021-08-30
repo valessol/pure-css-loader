@@ -3,7 +3,7 @@ Pure CSS Loader
 
 When I was learning about SASS I had some difficulties understanding the uses of loops like the for-loop. A monochromatic palette of colors could be achieved, but what else?
 
-I came across an article that opened my mind in that regard. It talks about CSS animations, and particularly mentioned the use of the for-loop to create the necessary classes for the animation.
+I came across an [article](https://css-tricks.com/how-i-made-a-generator-for-svg-loaders-with-sass-and-smil-options/) that opened my mind in that regard. It talks about CSS animations, and particularly mentioned the use of the for-loop to create the necessary classes for the animation.
 
 
 
