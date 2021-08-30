@@ -91,5 +91,5 @@ section {
 @keyframes disappear {
   0% {
     transform: scale(1); }
-  100% {
+  80%, 100% {
     transform: scale(0); } }
